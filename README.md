@@ -122,7 +122,8 @@ Price per sqft is significantly higher in premium IT corridor regions
 Some compact luxury properties have higher value than larger homes
 Developer reputation strongly influences pricing trends
 Infrastructure score impacts buyer preference and pricing
-Conclusion
+
+**Conclusion**
 
 This project provides a complete business intelligence solution for analyzing luxury housing trends in Bengaluru. Using SQL and Power BI together helps transform raw real estate data into meaningful insights for better investment and business decisions.
 
